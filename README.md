@@ -1,5 +1,5 @@
 # ECE 6258 Project Fall 2023
-This repository contains code written or modified for a project titled "An objective comparison and analysis of the performance of the BM3D and DnCNN image processing algorithms on denoising." See below for a brief description of each file:
+This repository contains code written or modified for a project titled "An objective comparison and analysis of the performance of the BM3D and DnCNN image processing algorithms on denoising" developed by project partners Erin Shappell and Robert Pritchard. See below for a brief description of each file:
 
 ## Code
 ### BM3D
